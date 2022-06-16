@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rene0115
-- 👀 I’m interested in css js computer hardware 
-- 🌱 I’m currently learning css html js 
+- 👀 I’m interested in nodejs computer hardware 
+- 🌱 I’m currently learning nodejs 
 - 💞️ I’m looking to collaborate on anything  
 - 📫 How to reach me enere0115@gmail.com
 
