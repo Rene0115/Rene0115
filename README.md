@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rene0115
 - 👀 I’m interested in nodejs computer hardware 
-- 🌱 I’m currently learning nodejs 
+- 🌱 I’m currently an intermediate level nodejs coder
 - 💞️ I’m looking to collaborate on anything  
 - 📫 How to reach me enere0115@gmail.com
 
