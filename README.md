@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rene0115
-- 👀 I’m interested in nodejs computer hardware 
+- 👀 I’m interested in Backend Web Development
 - 🌱 I’m currently an intermediate level nodejs coder
 - 💞️ I’m looking to collaborate on anything  
-- 📫 How to reach me enere0115@gmail.com
+- 📫 How to reach me enere0115@gmail.com || +2348119897301
 
 <!---
 Rene0115/Rene0115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
