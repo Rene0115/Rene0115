@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rene0115
 - 👀 I’m interested in Backend Web Development
-- 🌱 Backend Developer Fairly proficient in Nodejs
+- 🌱 Backend Developer proficient in Nodejs
 - 💞️ I’m looking to collaborate on anything  
 - 📫 How to reach me enere0115@gmail.com || +2348119897301
 
